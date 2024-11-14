@@ -1,0 +1,7 @@
+[submodule "realdan/themes/themes/github-style"]
+	path = realdan/themes/themes/github-style
+	url = git@github.com:MeiK2333/github-style.git
+[submodule "realdan/realdan.github.io"]
+	path = realdan/realdan.github.io
+	url = https://github.com/idkdanx/realdan.github.io.git
+	branch = main
